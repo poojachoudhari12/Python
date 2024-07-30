@@ -1,0 +1,8 @@
+f=open("demo.txt","r")
+Line1=f.readline()
+print(Line1)
+Line2=f.readline()
+print(Line2)
+Line3=f.readline()
+print(Line3)
+f.close()
